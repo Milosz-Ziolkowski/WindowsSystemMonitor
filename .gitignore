@@ -1,0 +1,8 @@
+#Generated build files
+
+build/
+build-*/
+
+#Visual Studio Code workspace settings
+
+.vscode/
